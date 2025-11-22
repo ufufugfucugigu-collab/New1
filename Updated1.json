@@ -1,1 +1,9 @@
-
+{
+  "showDialog": true,
+  "latestVersionCode": 2,
+  "latestVersionName": "1.1",
+  "title": "UPDATE AVAILABLE",
+  "message": " NEW PANEL UPDATED .",
+  "UpdateButtonText": "DOWNLOAD",
+  "UpdateButtonUrl": "https://t.me/+XdSd6xq31iQwZDBl"
+}
